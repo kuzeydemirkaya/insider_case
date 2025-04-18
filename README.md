@@ -1,0 +1,1 @@
+Responsive image carousel with six and a half images present at initial with smooth flow on button click. Product links open in a new tab. Favorited objects are stored locally and persists even after refreshing and re-running js code. 
